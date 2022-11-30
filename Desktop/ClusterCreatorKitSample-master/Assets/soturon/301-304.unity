@@ -7507,7 +7507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   worldOrEventId: 0089776e-03a8-4072-82b0-f71c0069f3c1
-  key: 
+  key: 301-4
 --- !u!65 &1460653687
 BoxCollider:
   m_ObjectHideFlags: 0

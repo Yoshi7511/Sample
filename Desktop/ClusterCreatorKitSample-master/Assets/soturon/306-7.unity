@@ -22360,7 +22360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   worldOrEventId: 0089776e-03a8-4072-82b0-f71c0069f3c1
-  key: 
+  key: 306-7
 --- !u!65 &691754664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65641,7 +65641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   worldOrEventId: 0089776e-03a8-4072-82b0-f71c0069f3c1
-  key: 
+  key: 306-7
 --- !u!65 &1954612551
 BoxCollider:
   m_ObjectHideFlags: 0
